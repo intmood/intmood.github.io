@@ -1,0 +1,83 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="intmood.com" resolutions="1x" timestamp="1611724641398">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="about.css" crc="3945292179" ref="about"/>
+    <file name="nomq_about.css" crc="230793223" ref="about"/>
+    <file name="index.css" crc="424961681" ref="index"/>
+    <file name="master_a-master.css" crc="390276192" ref="about:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="about:index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="introdemo-blackcaps-webfont.woff" crc="3863296737"/>
+    <file name="introdemo-blackcaps-webfont.eot" crc="4025472084"/>
+    <file name="introdemo-blackcaps-webfont.svg" crc="20298785"/>
+    <file name="balootamma2-extrabold.woff" crc="3945785669"/>
+    <file name="balootamma2-extrabold.eot" crc="4097087647"/>
+    <file name="balootamma2-extrabold.svg" crc="4117897153"/>
+    <file name="yuseimagic-regular-webfont.woff" crc="3925101459"/>
+    <file name="yuseimagic-regular-webfont.eot" crc="505707475"/>
+    <file name="yuseimagic-regular-webfont.svg" crc="3952313743"/>
+    <file name="andikanewbasic-regular-webfont.woff" crc="413428552"/>
+    <file name="andikanewbasic-regular-webfont.eot" crc="4283710815"/>
+    <file name="andikanewbasic-regular-webfont.svg" crc="381565419"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:index"/>
+    <file name="museutils.js" crc="340535759" ref="about:index"/>
+    <file name="whatinput.js" crc="86476730" ref="about:index"/>
+    <file name="museconfig.js" crc="4286661555" ref="about:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="about:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="about:index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="about"/>
+    <file name="require.js" crc="7928878" ref="about:index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="about:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="about:index"/>
+  </folder>
+  <folder name="images">
+    <file name="intmood_logo_font.svg" crc="4078233137" ref="about:index"/>
+    <file name="intmood_logo_font_poster_u6523.png" crc="4214774725" ref="about:index"/>
+    <file name="front cover.svg" crc="3771126028" ref="about"/>
+    <file name="front cover_poster_u4729.png" crc="290053849" ref="about"/>
+    <file name="girl thinking.svg" crc="4146496660" ref="about"/>
+    <file name="girl thinking_poster_u6507.png" crc="301731674" ref="about"/>
+    <file name="man_lost.svg" crc="3882032590" ref="about"/>
+    <file name="man_lost_poster_u6531.png" crc="494307584" ref="about"/>
+    <file name="happy_girl.svg" crc="4100857530" ref="about"/>
+    <file name="happy_girl_poster_u6515.png" crc="116513253" ref="about"/>
+    <file name="analysts working.svg" crc="4112944232" ref="about"/>
+    <file name="u495-4.png" crc="3854187956" ref="about"/>
+    <file name="u113-4.png" crc="3781713937" ref="about"/>
+    <file name="u537-4.png" crc="4199168781" ref="about"/>
+    <file name="u528-4.png" crc="355150639" ref="about"/>
+    <file name="u505-4.png" crc="207351351" ref="about"/>
+    <file name="u2271-4.png" crc="132999360" ref="about"/>
+    <file name="u538-4.png" crc="4110767270" ref="about"/>
+    <file name="u529-4.png" crc="4206783391" ref="about"/>
+    <file name="u505-42.png" crc="3858247889" ref="about"/>
+    <file name="u2271-42.png" crc="297757248" ref="about"/>
+    <file name="u538-42.png" crc="3844889602" ref="about"/>
+    <file name="u529-42.png" crc="342818943" ref="about"/>
+    <file name="u505-43.png" crc="3858247889" ref="about"/>
+    <file name="u2271-43.png" crc="297757248" ref="about"/>
+    <file name="u538-43.png" crc="3844889602" ref="about"/>
+    <file name="u529-43.png" crc="342818943" ref="about"/>
+    <file name="u505-44.png" crc="3858247889" ref="about"/>
+    <file name="u2271-44.png" crc="297757248" ref="about"/>
+    <file name="u538-44.png" crc="3844889602" ref="about"/>
+    <file name="u529-44.png" crc="342818943" ref="about"/>
+    <file name="u505-45.png" crc="3858247889" ref="about"/>
+    <file name="u2271-45.png" crc="297757248" ref="about"/>
+    <file name="u538-45.png" crc="3844889602" ref="about"/>
+    <file name="u529-45.png" crc="342818943" ref="about"/>
+    <file name="u505-46.png" crc="3858247889" ref="about"/>
+    <file name="u2271-46.png" crc="297757248" ref="about"/>
+    <file name="u538-46.png" crc="3844889602" ref="about"/>
+    <file name="u529-46.png" crc="342818943" ref="about"/>
+    <file name="blank.gif" crc="4208392903" ref="about"/>
+    <file name="arrow.svg" crc="533024385" ref="about"/>
+    <file name="arrow_poster_u7435.png" crc="4142030851" ref="about"/>
+    <file name="analysts working_poster_u7383.png" crc="3947397142" ref="about"/>
+  </folder>
+  <file name="about.html" crc="4163087252" seo="true" mt="1611724497970" redirect="true"/>
+  <file name="index.html" crc="181327051" seo="true" mt="1611686480022" redirect="true"/>
+</manifest>
