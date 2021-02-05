@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="intmood.com" resolutions="1x" timestamp="1612528813664">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="intmood.com" resolutions="1x" timestamp="1612535518559">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="about.css" crc="506750723" ref="about"/>
-    <file name="nomq_about.css" crc="3986537811" ref="about"/>
-    <file name="index.css" crc="254229241" ref="index"/>
-    <file name="master_a-master.css" crc="526599933" ref="about:index:report"/>
+    <file name="about.css" crc="53435005" ref="about"/>
+    <file name="nomq_about.css" crc="3846596058" ref="about"/>
+    <file name="index.css" crc="4031692433" ref="index"/>
+    <file name="master_a-master.css" crc="235721625" ref="about:index:report"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="about:index:report"/>
     <file name="report.css" crc="132347901" ref="report"/>
-    <file name="nomq_index.css" crc="317245281" ref="index"/>
+    <file name="nomq_index.css" crc="4152376615" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="introdemo-blackcaps-webfont.woff" crc="3863296737"/>
@@ -81,7 +81,7 @@
     <file name="analysts working_poster_u7383.png" crc="3947397142" ref="about"/>
     <file name="favicon.ico" crc="60720843" ref="about"/>
   </folder>
-  <file name="about.html" crc="149802679" seo="true" mt="1612528128149" redirect="true"/>
-  <file name="index.html" crc="410705202" seo="true" mt="1612527844532" redirect="true"/>
+  <file name="about.html" crc="449078559" seo="true" mt="1612535139215" redirect="true"/>
+  <file name="index.html" crc="423517707" seo="true" mt="1612534960155" redirect="true"/>
   <file name="report.html" crc="23243277" seo="true" mt="1612528493159" redirect="true"/>
 </manifest>
